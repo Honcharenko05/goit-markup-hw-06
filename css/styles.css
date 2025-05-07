@@ -70,7 +70,8 @@ img {
 }
 
 .container {
-  max-width: 320px;
+  /* max-width: 320px; */
+  max-width: 1158px;
   padding-left: 16px;
   padding-right: 16px;
   margin-left: auto;
@@ -715,6 +716,7 @@ img {
     justify-content: center;
     flex-wrap: nowrap;
     gap: 80px;
+    width: auto;
   }
 }
 /* Modal window */
